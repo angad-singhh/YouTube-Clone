@@ -40,3 +40,15 @@
     padding: 20px;
 
 }
+
+@media (width<=850px){
+    .videos{
+        grid-template-columns: 1fr 1fr;
+    }
+}
+@media (850px< width<=1200px){
+    .videos{
+        grid-template-columns: 1fr 1fr 1fr;
+    }
+}
+

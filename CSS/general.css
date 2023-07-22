@@ -1,7 +1,11 @@
 
 body{
-    background-color: rgb(252, 252, 252);
+    background-color: rgb(242, 242, 242);
 }
+body img:hover{
+    cursor: pointer;
+}
+
 
 .youtube{
     padding: 60px 0 0 70px;
